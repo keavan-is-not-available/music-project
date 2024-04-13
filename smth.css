@@ -3,3 +3,7 @@ canvas{
     margin-top:10px;
  border:10px solid black;
 }
+body{
+    background-size: auto;
+    background-position: center;
+}
